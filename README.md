@@ -42,9 +42,9 @@ The X Social Media Platform is a web application that allows users to connect, s
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the []{} file for details.
 
 ## Contact
 For any questions or feedback, please contact [adarsh-2011]{https://www.github.com/adarsh-2011}
 
-[hi]{}.
+
